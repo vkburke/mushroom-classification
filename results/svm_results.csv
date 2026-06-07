@@ -1,2 +1,2 @@
-model,best_kernel,best_C,cv_f1,test_accuracy,test_f1
-SVM,linear,0.1,0.9998460310261729,1.0,1.0
+model,best_kernel,best_C,cv_f1,test_accuracy,test_f1,hinge_loss
+SVM,linear,0.1,0.9998460310261729,1.0,1.0,1.0839032841922028e-05
