@@ -221,3 +221,4 @@ __marimo__/
 *.pt
 data/
 results/figures/
+.DS_Store
